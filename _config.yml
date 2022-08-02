@@ -1,1 +1,6 @@
 theme: jekyll-theme-minimal
+title: ReplayGain Scan
+logo: /icon/icon.png
+description:
+show_downloads: true
+google_analytics:

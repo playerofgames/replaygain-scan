@@ -1,5 +1,3 @@
-# ReplayGain Scan Utility
-
 ## Introduction
 
 The [ReplayGain](https://en.wikipedia.org/wiki/ReplayGain) standard describes a mechanism to measure and play music at a normalised volume level.
