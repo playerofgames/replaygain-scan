@@ -62,8 +62,9 @@ iTunes does not support ReplayGain. It has its own feature called SoundCheck whi
 ## History
 
 Version 0.4, 2 August 2022
-- Updated icon for BigSur and Monterey.
+- Updated icons for BigSur and Monterey.
 - Readme is markdown.
+- Build using Platypus 5.3.
 - Moved to GitHub.
 
 Version 0.3, 15 February 2020
