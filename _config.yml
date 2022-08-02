@@ -4,3 +4,6 @@ logo: /icon/icon.png
 description:
 show_downloads: true
 google_analytics:
+github:
+  zip_url: https://github.com/playerofgames/replaygain-scan/releases/download/0.4/Release.0.4.zip
+  tar_url: javascript:alert('not available')
